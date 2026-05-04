@@ -1,0 +1,3 @@
+
+
+beam deploy model.py:deepseek_r1 
