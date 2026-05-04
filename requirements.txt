@@ -1,0 +1,4 @@
+beam-client 
+transformers 
+rich 
+openai 
